@@ -1,4 +1,9 @@
-# dogmap
+
+
+# dogmap - fork for use by Karlsson Lab @ broad - edits by Michelle 
+
+
+# dogmap - main branch
 Kidd lab draft pipeline for dog Illumina WGS alignment
 
 **Last updated 23 March 2021**
